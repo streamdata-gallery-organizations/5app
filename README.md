@@ -1,4 +1,4 @@
-# Streamdata.io API Gallery
+# Streamdata.io API Gallery - 5app Profiling
 This is a repository for managing the profiling of 5app. Right now, it is just a Github repository, README, and an [APIs.json](apis.md) outlining some of the details of 5app, including different links and artificats defining their operation.
 
 Eventually, this repository will possess as much information about this entity as possible, and if it has an API, it will also possess OpenAPI definitions, and Postman Collections defining the surface area of the API. Each entry in the Streamdata.io API Gallery begins with a Github repository, then an APIs.json, and then OpenAPIs and Postman Collections when relevant.
